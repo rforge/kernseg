@@ -1,0 +1,5 @@
+# Declare that we use a dynamically loaded C library.
+# Make sure that the 'KernDynProg...' C functions can be found.
+useDynLib(KernSeg.light)
+exportPattern("^[[:alpha:]]+")
+

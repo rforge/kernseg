@@ -1,0 +1,10 @@
+Package: KernSeg
+Version: 0.0.1
+Date: 2018-01-16
+Title: Kernel Based Segmentation
+Depends: R (>= 2.14.1), kernlab
+Author: Guillem Rigaill (main contributor), Guillemette Marot
+Maintainer: Guillemette Marot, <guillemette.marot@univ-lille2.fr>
+Description: Kernel Based Segmentation
+License: GPL
+
