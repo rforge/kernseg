@@ -1,5 +1,5 @@
 Package: KernSeg
-Version: 0.0.1
+Version: 0.0.2
 Date: 2018-01-16
 Title: Kernel Based Segmentation
 Depends: R (>= 2.14.1), kernlab
