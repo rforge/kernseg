@@ -119,7 +119,7 @@ option=0
 			delta= as.double(delta), 
 			D_i= double(nRow), 
 			min_size = as.integer(min.size),
-			PACKAGE="KernSeg.light")
+			PACKAGE="KernSeg")
 	}
 	
 	if(kernel == "Gaussian"){
@@ -133,7 +133,7 @@ option=0
 			delta= as.double(delta), 
 			D_i= double(nRow),
 			min_size = as.integer(min.size), 
-			PACKAGE="KernSeg.light")
+			PACKAGE="KernSeg")
 	}
 
 	if(kernel == "DivMatt"){
@@ -148,7 +148,7 @@ option=0
 			D_i= double(nRow), 
 			min_size = as.integer(min.size),
 			option=as.integer(option),
-			PACKAGE="KernSeg.light")
+			PACKAGE="KernSeg")
 	}
   
       
